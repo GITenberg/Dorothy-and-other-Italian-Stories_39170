@@ -1,0 +1,38 @@
+_repo: Dorothy-and-other-Italian-Stories_39170
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39170-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Woolson, Constance Fenimore
+    alias: March, Anne
+    birthdate: 1840
+    deathdate: 1894
+    gutenberg_agent_id: '2041'
+    url: http://www.gutenberg.org/2009/agents/2041
+    wikipedia: http://en.wikipedia.org/wiki/Constance_Fenimore_Woolson
+description: Constance Fenimore Woolson was the great niece of James Fenimore Cooper
+  and a close friend and correspondent of Henry James. A successful short story and
+  novel writer Woolson was one of the ""local color"", or American literary regionalism
+  authors popular in late-nineteenth century America. She travelled a great deal through
+  America and Europe where she gathered material for her works. Woolson's stories
+  focus on character, dialects, customs and landscape that are unique to a region...
+gutenberg_issued: '2012-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39170'
+  lccn: 08037231
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- Social life and customs -- Fiction'
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- !lcsh 'Americans -- Italy -- Fiction'
+tableOfContents: Dorothy -- A transplanted boy -- A Florentine experiment -- A waitress
+  -- At the château of Corinne.
+title: Dorothy, and Other Italian Stories
+url: http://www.gutenberg.org/ebooks/39170
